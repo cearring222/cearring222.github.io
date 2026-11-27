@@ -1,0 +1,5 @@
+Add your SimpleMaps CSV datasets to this folder:
+- uscities.csv
+- worldcities.csv
+
+Keep the original filenames and headers. See the project README for details.
